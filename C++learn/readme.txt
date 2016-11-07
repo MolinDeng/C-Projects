@@ -1,0 +1,1 @@
+This dir is about some C++ program written by myself when i was learning C++.
